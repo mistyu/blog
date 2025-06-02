@@ -1,10 +1,8 @@
 <h2 align="center">
-愧怍的个人博客
+一月的个人博客
 </h2>
 <p align="center">
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/kuizuo/blog/tree/main&project-name=blog&repo-name=blog" rel="nofollow"><img src="https://vercel.com/button"></a>
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/kuizuo/blog" rel="nofollow"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
-<a href="https://stackblitz.com/github/kuizuo/blog" rel="nofollow"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"></a>
+<a href="https://mistyu.com" rel="nofollow"><img src="https://vercel.com/button"></a>
 </p>
 
 ## 👋 介绍
@@ -27,9 +25,7 @@
 - 🏞️ **首页视图** - 显示最新博客文章、项目展示，个人特点，技术栈等
 - 🗃️ **博文视图** - 不同的博文视图，列表、宫格
 - 🌈 **资源导航** - 收集并分享有用、有意思的资源
-- 📦 **项目展示** - 展示你的项目，可用作于作品集
-
-我的主题魔改实现：[Docusaurus 主题魔改](https://kuizuo.me/docs/docusaurus-guides)
+- 📦 **项目展示** - 展示你的项目，可用作于作品集å
 
 ## :wrench: 技术栈
 
@@ -69,7 +65,7 @@
 ## 📥 运行
 
 ```bash
-git clone https://github.com/kuizuo/blog.git
+git clone https://github.com/mistyu/blog.git
 cd blog
 pnpm install
 pnpm start
@@ -83,7 +79,7 @@ pnpm build
 
 ## 📷 截图
 
-<img width="1471" alt="Live Demo" src="https://github.com/kuizuo/blog/blob/main/static/img/og.png?raw=true">
+<!-- <img width="1471" alt="Live Demo" src="https://github.com/kuizuo/blog/blob/main/static/img/og.png?raw=true"> -->
 
 ## 📝 许可证
 
