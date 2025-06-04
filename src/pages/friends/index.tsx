@@ -1,6 +1,6 @@
 import CodeBlock from '@theme/CodeBlock'
 import Layout from '@theme/Layout'
-import { memo, useRef } from 'react'
+import { JSX, memo, useRef } from 'react'
 
 import { Friend, Friends } from '@site/data/friends'
 
