@@ -16,7 +16,7 @@ type SocialValue = {
 const social: Social = {
   github: 'https://github.com/mistyu',
   juejin: 'https://juejin.cn/user/3940246036691127',
-  wx: 'https://mistyu.com/imgs/wechat.png',
+  wx: '/img/wechat.png',
   // qq: 'https://img.kuizuo.me/qq.png',
   // zhihu: 'https://www.zhihu.com/people/kuizuo',
   email: 'mailto:lichenhui821@qq.com',
