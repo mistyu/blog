@@ -68,9 +68,6 @@ const config: Config = {
           title: '学习',
           items: [
             { label: '博客', to: 'blog' },
-            { label: '归档', to: 'blog/archive' },
-            { label: '实战项目', to: 'project' },
-            { label: '前端示例', to: 'https://example.yiyue.me' },
           ],
         },
         {
@@ -78,32 +75,18 @@ const config: Config = {
           items: [
             { label: '关于我', to: '/about' },
             { label: 'GitHub', href: social.github.href },
-            // { label: 'Twitter', href: social.x.href },
-            // { label: '掘金', href: social.juejin.href },
-            // { label: 'Discord', href: social.discord.href },
+            { label: '掘金', href: social.juejin.href },
           ],
         },
         {
           title: '网站',
           items: [
-            { label: 'js反混淆', to: 'https://js-deobfuscator.yiyue.me' },
-            { label: 'cyberChef', to: 'https://gchq.github.io/CyberChef' },
-            { label: 'api服务', to: 'https://api.yiyue.me' },
-            { label: '便民服务', to: 'https://service.yiyue.me' },
-            { label: '站点监控', to: 'https://uptime.yiyue.me' },
+            { label: '我的', to: 'https://mistyu.com' },
           ],
         },
         {
           title: '更多',
           items: [
-            { label: '友链', position: 'right', to: 'friends' },
-            {
-              html: `
-                <a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener">
-                  <img src="/img/buildwith.png" alt="build with docusaurus" width="120" height="50"/>
-                </a>
-                `,
-            },
           ],
         },
       ],
