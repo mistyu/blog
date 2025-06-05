@@ -17,6 +17,14 @@ export const projects: Project[] = [
     type: 'commerce',
   },
   {
+    title: 'IM通讯',
+    description: '基于 Flutter 实现的通讯平台，支持视频、语言、好友、群聊、表情包等功能',
+    preview: '/img/project/im1.jpg',
+    website: '/im',
+    tags: ['product', 'favorite'],
+    type: 'commerce',
+  },
+  {
     title: '易媒助手',
     description: '基于 Electron + FFmpeg 实现的视频处理工具，支持视频转码、剪辑、合并等功能',
     preview: '/img/project/electron-media.jpg',
