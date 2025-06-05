@@ -70,7 +70,7 @@ const config: Config = {
             { label: '博客', to: 'blog' },
             { label: '归档', to: 'blog/archive' },
             { label: '实战项目', to: 'project' },
-            { label: '前端示例', to: 'https://example.kuizuo.me' },
+            { label: '前端示例', to: 'https://example.yiyue.me' },
           ],
         },
         {
@@ -86,11 +86,11 @@ const config: Config = {
         {
           title: '网站',
           items: [
-            { label: 'js反混淆', to: 'https://js-deobfuscator.kuizuo.me' },
+            { label: 'js反混淆', to: 'https://js-deobfuscator.yiyue.me' },
             { label: 'cyberChef', to: 'https://gchq.github.io/CyberChef' },
-            { label: 'api服务', to: 'https://api.kuizuo.me' },
-            { label: '便民服务', to: 'https://service.kuizuo.me' },
-            { label: '站点监控', to: 'https://uptime.kuizuo.me' },
+            { label: 'api服务', to: 'https://api.yiyue.me' },
+            { label: '便民服务', to: 'https://service.yiyue.me' },
+            { label: '站点监控', to: 'https://uptime.yiyue.me' },
           ],
         },
         {
@@ -118,7 +118,7 @@ const config: Config = {
     algolia: {
       appId: 'GV6YN1ODMO',
       apiKey: '50303937b0e4630bec4a20a14e3b7872',
-      indexName: 'kuizuo',
+      indexName: 'yiyue',
     },
     prism: {
       theme: themes.oneLight,
@@ -209,7 +209,7 @@ const config: Config = {
       {
         path: 'blog',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/yiyue/blog/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogDescription: '代码人生：编织技术与生活的博客之旅',
         blogSidebarCount: 10,
@@ -248,7 +248,7 @@ const config: Config = {
                 innerHTML: `
     (${function () {
       console.log(
-        `%c Kz Blog %c https://github.com/kuizuo/blog`,
+        `%c Kz Blog %c https://github.com/yiyue/blog`,
         'color: #fff; margin: 1em 0; padding: 5px 0; background: #12affa;',
         'margin: 1em 0; padding: 5px 0; background: #efefef;',
       )

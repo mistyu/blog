@@ -1,19 +1,14 @@
 ---
 slug: sse-server-send-event
 title: SSE 服务器发送事件
-date: 2022-03-16
-authors: kuizuo
+date: 2025-03-16
+authors: yiyue
 tags: [http]
 keywords: [http]
 ---
 
 <!-- truncate -->
-
-先放一张 gif 图展示下效果
-
-![sse](https://img.kuizuo.me/sse.gif)
-
-实现上面这个效果之前，先补充点前置知识
+目前市面上的 AI 应用大多都是采用 SSE 的方式双向通信
 
 众所周知，在 HTTP 协议中，服务器无法向浏览器推送信息，可以使用 WebSocket 来实现两者双向通信。而在这里所要介绍的是 SSE（Server-Sent Events），在浏览器向服务器请求后，服务器每隔一段时间向客户端发送流数据（是单向的），来实现接收服务器的数据，例如在线视频播放，和像上面所演示的效果。
 

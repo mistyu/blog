@@ -14,7 +14,7 @@ const ADD_FRIEND_URL = 'https://github.com/mistyu/blog/edit/main/data/friends.ts
 const SITE_INFO = `title: '一月'
 description: '道阻且长，行则将至'
 website: 'https://mistyu.com'
-avatar: 'https://kuizuo.me/img/logo.png'
+avatar: 'https://yiyue.me/img/logo.png'
 `
 const friends = Friends
 

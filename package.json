@@ -2,15 +2,15 @@
   "name": "blog",
   "version": "3.0.0",
   "author": {
-    "url": "https://github.com/kuizuo",
-    "email": "hi@kuizuo.me",
+    "url": "https://github.com/yiyue",
+    "email": "hi@yiyue.me",
     "name": "一月"
   },
   "repository": {
-    "url": "https://github.com/kuizuo/blog",
+    "url": "https://github.com/yiyue/blog",
     "type": "git"
   },
-  "homepage": "https://kuizuo.me",
+  "homepage": "https://yiyue.me",
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",

@@ -1,8 +1,8 @@
 ---
 slug: vite-vue3-build-uniapp-environment
 title: vite+vue3搭建uniapp开发环境
-date: 2022-03-27
-authors: kuizuo
+date: 2023-03-27
+authors: yiyue
 tags: [vue, vite, uniapp, develop]
 keywords: [vue, vite, uniapp, develop]
 description: 使用 vite vue3 搭建 uniapp 开发环境
@@ -181,7 +181,7 @@ declare module '*.vue' {
 }
 ```
 
-然后就是把一些`#ifndef VUE3`不是 vue3 的代码块，以及部分 js 文件改写成 ts 文件即可。这里把我修改后的模板上传到 github 上，有需要的可自行下载：[kuizuo/vite-vue3-uniapp (github.com)](https://github.com/kuizuo/vite-vue3-uniapp)
+然后就是把一些`#ifndef VUE3`不是 vue3 的代码块，以及部分 js 文件改写成 ts 文件即可。这里把我修改后的模板上传到 github 上，有需要的可自行下载：[mistyu/vite-vue3-uniapp (github.com)](https://github.com/mistyu/vite-vue3-uniapp)
 
 如果不想使用官方的 vue3 模板，这里也有篇文章介绍如何迁移
 
