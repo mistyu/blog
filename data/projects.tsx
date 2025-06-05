@@ -12,7 +12,7 @@ export const projects: Project[] = [
     title: 'POS点单系统',
     description: '基于Flutter实现的餐饮点餐系统，可以点单、收银、会员充值、订单明细、库存等功能',
     preview: '/img/project/pos-home.jpg',
-    website: '/blog/pos',
+    website: '/pos',
     tags: ['large', 'product', 'favorite'],
     type: 'web',
   },
