@@ -1,11 +1,11 @@
 ---
 slug: react-native-develop-experience
 title: React Native 开发心得分享
-date: 2024-05-14
+date: 2024-01-14
 authors: yiyue
 tags: [react native, 原生, 心得分享]
 keywords: [react native, 原生, 心得分享]
-image: https://img.yiyue.me/2024/0514121158-react-native.png
+image: https://img.kuizuo.me/2024/0514121158-react-native.png
 ---
 
 最近研究了一下 React Native(简称RN)，并用它作为毕设项目（一个仿小红书的校园社交应用）。经过一段时间的折腾，对 RN 生态有了一些了解，是时候可以分享一些心得了。

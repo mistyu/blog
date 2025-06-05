@@ -12,7 +12,7 @@ description: 基于 Axios 封装 HTTP 类库，并发布到 npm 仓库中
 
 一个基于 Axios 封装 HTTP 类库
 
-源代码 [kz-http](https://github.com/yiyue/kz-http)
+源代码 [http](https://github.com/yiyue/http)
 
 ## 使用方法
 

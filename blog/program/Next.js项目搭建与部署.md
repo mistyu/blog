@@ -1,7 +1,7 @@
 ---
 slug: next.js-build-and-deploy
 title: Next.js项目搭建与部署
-date: 2023-07-13
+date: 2024-07-13
 authors: yiyue
 tags: [next, react, ssr, vercel]
 keywords: [next, react, ssr, vercel]

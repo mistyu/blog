@@ -6,7 +6,7 @@ authors: yiyue
 tags: [blog, docusaurus, project]
 keywords: [blog, docusaurus, project]
 description: 使用 docusaurus 搭建个人博客，并对其主题进行魔改
-image: /img/project/blog.png
+# image: /img/project/blog.png
 ---
 
 博客地址: [一月的小站](https://mistyu.com)

@@ -1,7 +1,7 @@
 ---
 slug: nextjs-with-hono
 title: Next.js 使用 Hono 接管 API
-date: 2024-10-02
+date: 2025-05-02
 authors: yiyue
 tags: [nextjs, honojs]
 keywords: [nextjs, honojs]
